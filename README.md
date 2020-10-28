@@ -1,6 +1,8 @@
 mws-api
 ======
 
+> This repo is just a fork of the project `mws-api`. I needed to take the lastest version which was not published.
+
 Amazon MWS Node.js modules are a mess. This project is based on multiple projects from [this](https://github.com/eibbors/mws-js/network).
 
 Promise based. Only compatible with Node ^4.0.0. (unless someone adds a babel precompilation step)
